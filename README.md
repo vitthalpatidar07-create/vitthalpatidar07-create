@@ -67,14 +67,6 @@ An AI-powered government scheme recommendation system designed to help users dis
 
 ---
 
-### 🎬 Online Movie Ticket Booking System
-
-A backend-oriented movie ticket booking application featuring REST APIs, movie management, seat reservation, booking functionality, and database integration.
-
-**Tech:** Java · Spring Boot · MySQL · REST APIs
-
----
-
 ### 📚 DataSip
 
 An AI-powered personalized learning platform providing intelligent learning assistance, chatbot functionality, quiz generation, and personalized learning experiences.
